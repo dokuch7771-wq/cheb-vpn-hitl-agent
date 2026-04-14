@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Databases
+*.db
+*.db-shm
+*.db-wal
+
+# Runtime state
+current_task.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
